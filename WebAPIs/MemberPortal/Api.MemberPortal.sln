@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api.MP.Registration", "..\..\..\Apps\WebApis\MemberPortal\Api.MP.Registration\Api.MP.Registration.csproj", "{4E98B875-BD95-4E50-A47F-993F2954AF78}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 1
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://tfs:8080/tfs/core
+		SccProjectUniqueName0 = ..\\..\\..\\Apps\\WebApis\\MemberPortal\\Api.MP.Registration\\Api.MP.Registration.csproj
+		SccProjectName0 = ../../../Apps/WebApis/MemberPortal/Api.MP.Registration
+		SccAuxPath0 = http://tfs:8080/tfs/core
+		SccLocalPath0 = ..\\..\\..\\Apps\\WebApis\\MemberPortal\\Api.MP.Registration
+		SccProvider0 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		DEV|Any CPU = DEV|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SIT|Any CPU = SIT|Any CPU
+		UAT|Any CPU = UAT|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E98B875-BD95-4E50-A47F-993F2954AF78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E98B875-BD95-4E50-A47F-993F2954AF78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E98B875-BD95-4E50-A47F-993F2954AF78}.DEV|Any CPU.ActiveCfg = DEV|Any CPU
+		{4E98B875-BD95-4E50-A47F-993F2954AF78}.DEV|Any CPU.Build.0 = DEV|Any CPU
+		{4E98B875-BD95-4E50-A47F-993F2954AF78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E98B875-BD95-4E50-A47F-993F2954AF78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E98B875-BD95-4E50-A47F-993F2954AF78}.SIT|Any CPU.ActiveCfg = SIT|Any CPU
+		{4E98B875-BD95-4E50-A47F-993F2954AF78}.SIT|Any CPU.Build.0 = SIT|Any CPU
+		{4E98B875-BD95-4E50-A47F-993F2954AF78}.UAT|Any CPU.ActiveCfg = UAT|Any CPU
+		{4E98B875-BD95-4E50-A47F-993F2954AF78}.UAT|Any CPU.Build.0 = UAT|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

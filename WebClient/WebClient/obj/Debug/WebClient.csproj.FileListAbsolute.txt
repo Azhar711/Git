@@ -1,0 +1,6 @@
+C:\Users\am22765\New folder\WebClient\WebClient\bin\WebClient.dll.config
+C:\Users\am22765\New folder\WebClient\WebClient\bin\WebClient.dll
+C:\Users\am22765\New folder\WebClient\WebClient\bin\WebClient.pdb
+C:\Users\am22765\New folder\WebClient\WebClient\obj\Debug\WebClient.csprojResolveAssemblyReference.cache
+C:\Users\am22765\New folder\WebClient\WebClient\obj\Debug\WebClient.dll
+C:\Users\am22765\New folder\WebClient\WebClient\obj\Debug\WebClient.pdb

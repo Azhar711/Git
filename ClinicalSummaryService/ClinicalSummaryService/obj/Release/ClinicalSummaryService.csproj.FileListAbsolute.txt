@@ -1,0 +1,7 @@
+C:\Users\am22765\New folder\ClinicalSummaryService\ClinicalSummaryService\bin\ClinicalSummaryService.dll.config
+C:\Users\am22765\New folder\ClinicalSummaryService\ClinicalSummaryService\bin\ClinicalSummaryService.dll
+C:\Users\am22765\New folder\ClinicalSummaryService\ClinicalSummaryService\bin\ClinicalSummaryService.pdb
+C:\Users\am22765\New folder\ClinicalSummaryService\ClinicalSummaryService\bin\log4net.dll
+C:\Users\am22765\New folder\ClinicalSummaryService\ClinicalSummaryService\bin\log4net.xml
+C:\Users\am22765\New folder\ClinicalSummaryService\ClinicalSummaryService\obj\Release\ClinicalSummaryService.dll
+C:\Users\am22765\New folder\ClinicalSummaryService\ClinicalSummaryService\obj\Release\ClinicalSummaryService.pdb

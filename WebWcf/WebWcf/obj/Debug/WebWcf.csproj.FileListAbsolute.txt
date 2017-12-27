@@ -1,0 +1,6 @@
+C:\Users\am22765\New folder\WebWcf\WebWcf\bin\WebWcf.dll.config
+C:\Users\am22765\New folder\WebWcf\WebWcf\bin\WebWcf.dll
+C:\Users\am22765\New folder\WebWcf\WebWcf\bin\WebWcf.pdb
+C:\Users\am22765\New folder\WebWcf\WebWcf\obj\Debug\WebWcf.csprojResolveAssemblyReference.cache
+C:\Users\am22765\New folder\WebWcf\WebWcf\obj\Debug\WebWcf.dll
+C:\Users\am22765\New folder\WebWcf\WebWcf\obj\Debug\WebWcf.pdb

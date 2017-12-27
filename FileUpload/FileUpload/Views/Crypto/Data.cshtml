@@ -1,0 +1,65 @@
+﻿@{
+    ViewBag.Title = "Encrypt/Decrypt";
+}
+
+<h2>Encrypt/Decrypt</h2>
+
+<div class="container">
+    @using (Html.BeginForm("Encrypt", "Crypto", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+        <div class="row">
+            <div class="col-md-offset-3 col-md-3">
+                @Html.TextBox("file", "", new { type = "file" })
+            </div>
+            <div class="col-md-3">
+                <input type="submit" value="Encrypt" />
+            </div>
+        </div>
+
+
+        <div class="row">
+            @if (ViewBag.Type == "encrypt")
+            {
+                <div class="col-md-12 text-success text-center" >
+                    File is encrypted successfully. You can @Html.ActionLink("download here.", "download", new { path = ViewBag.Message })
+                </div>
+            }
+            @if (ViewBag.Type == "error-encrypt")
+            {
+                <div class="col-md-12 text-danger text-center">
+                    @ViewBag.Message
+                </div>
+            }
+        </div>
+    }
+    <div class="row">
+        <div style="padding:20px;">
+        </div>
+    </div>
+    @using (Html.BeginForm("Decrypt", "Crypto", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+        <div class="row">
+            <div class="col-md-offset-3 col-md-3">
+                @Html.TextBox("file", "", new { type = "file" })
+            </div>
+            <div class="col-md-3">
+                <input type="submit" value="Decrypt" />
+            </div>
+        </div>
+
+        <div class="row">
+            @if (ViewBag.Type == "decrypt")
+            {
+                <div class="col-md-12 text-success text-center">
+                    File is decrypted successfully. You can @Html.ActionLink("download here.", "download", new { path = ViewBag.Message })
+                </div>
+            }
+            @if (ViewBag.Type == "error")
+            {
+                <div class="col-md-12 text-danger text-center">
+                    @ViewBag.Message
+                </div>
+            }
+        </div>
+    }
+</div>

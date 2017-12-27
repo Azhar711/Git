@@ -1,0 +1,8 @@
+C:\Users\am22765\New folder\ServerName\ServerName\bin\Debug\ServerName.exe.config
+C:\Users\am22765\New folder\ServerName\ServerName\obj\Debug\ServerName.csprojResolveAssemblyReference.cache
+C:\Users\am22765\New folder\ServerName\ServerName\bin\Debug\ServerName.exe
+C:\Users\am22765\New folder\ServerName\ServerName\bin\Debug\ServerName.pdb
+C:\Users\am22765\New folder\ServerName\ServerName\obj\Debug\ServerName.exe
+C:\Users\am22765\New folder\ServerName\ServerName\obj\Debug\ServerName.pdb
+C:\Users\am22765\New folder\ServerName\ServerName\bin\Debug\log4net.dll
+C:\Users\am22765\New folder\ServerName\ServerName\bin\Debug\log4net.xml

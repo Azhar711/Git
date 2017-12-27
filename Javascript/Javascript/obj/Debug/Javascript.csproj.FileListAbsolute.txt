@@ -1,0 +1,6 @@
+C:\Users\am22765\New folder\Javascript\Javascript\bin\Javascript.dll.config
+C:\Users\am22765\New folder\Javascript\Javascript\bin\Javascript.dll
+C:\Users\am22765\New folder\Javascript\Javascript\bin\Javascript.pdb
+C:\Users\am22765\New folder\Javascript\Javascript\obj\Debug\Javascript.csprojResolveAssemblyReference.cache
+C:\Users\am22765\New folder\Javascript\Javascript\obj\Debug\Javascript.dll
+C:\Users\am22765\New folder\Javascript\Javascript\obj\Debug\Javascript.pdb

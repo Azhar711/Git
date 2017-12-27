@@ -1,0 +1,8 @@
+C:\Users\am22765\New folder\MyService\ServiceHost\bin\Debug\ServiceHost.exe.config
+C:\Users\am22765\New folder\MyService\ServiceHost\obj\Debug\ServiceHost.csprojResolveAssemblyReference.cache
+C:\Users\am22765\New folder\MyService\ServiceHost\bin\Debug\ServiceHost.exe
+C:\Users\am22765\New folder\MyService\ServiceHost\bin\Debug\ServiceHost.pdb
+C:\Users\am22765\New folder\MyService\ServiceHost\bin\Debug\MyService.dll
+C:\Users\am22765\New folder\MyService\ServiceHost\bin\Debug\MyService.pdb
+C:\Users\am22765\New folder\MyService\ServiceHost\obj\Debug\ServiceHost.exe
+C:\Users\am22765\New folder\MyService\ServiceHost\obj\Debug\ServiceHost.pdb

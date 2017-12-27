@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/ClinicalSummaryService" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/ClinicalSummaryService" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="ArrayOfGoalDetails">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="GoalDetails" nillable="true" type="tns:GoalDetails" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfGoalDetails" nillable="true" type="tns:ArrayOfGoalDetails" />
+  <xs:complexType name="GoalDetails">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="AchievedDate" nillable="true" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="CompletionDate" nillable="true" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="Goal" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="GoalPriority" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="GoalStartDate" nillable="true" type="xs:dateTime" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="GoalDetails" nillable="true" type="tns:GoalDetails" />
+</xs:schema>

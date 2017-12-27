@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="c504f598-309d-4893-b728-3768670b5a10" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:49451/GoalService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="GoalService.wsdl" MetadataType="Wsdl" ID="67acba2c-aef5-4899-aa9e-b3ff6df806d0" SourceId="1" SourceUrl="http://localhost:49451/GoalService.svc?wsdl" />
+    <MetadataFile FileName="GoalService.xsd" MetadataType="Schema" ID="c13b2253-af63-4c35-bcd4-fc1815cfba0e" SourceId="1" SourceUrl="http://localhost:49451/GoalService.svc?xsd=xsd0" />
+    <MetadataFile FileName="GoalService1.xsd" MetadataType="Schema" ID="64f05289-b761-4943-837a-42c94536d71e" SourceId="1" SourceUrl="http://localhost:49451/GoalService.svc?xsd=xsd1" />
+    <MetadataFile FileName="GoalService2.xsd" MetadataType="Schema" ID="ced3ffee-c18c-4695-815b-9076d6cf4b4a" SourceId="1" SourceUrl="http://localhost:49451/GoalService.svc?xsd=xsd2" />
+    <MetadataFile FileName="GoalService.disco" MetadataType="Disco" ID="e052d873-7991-495c-bddd-775d66175fa7" SourceId="1" SourceUrl="http://localhost:49451/GoalService.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

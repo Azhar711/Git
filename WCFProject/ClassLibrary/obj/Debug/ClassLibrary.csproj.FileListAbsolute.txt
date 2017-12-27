@@ -1,0 +1,5 @@
+C:\Users\am22765\New folder\WCFProject\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\am22765\New folder\WCFProject\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\am22765\New folder\WCFProject\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\am22765\New folder\WCFProject\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\am22765\New folder\WCFProject\ClassLibrary\obj\Debug\ClassLibrary.pdb

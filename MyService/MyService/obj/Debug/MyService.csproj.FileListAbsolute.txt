@@ -1,0 +1,6 @@
+C:\Users\am22765\New folder\MyService\MyService\bin\Debug\MyService.dll.config
+C:\Users\am22765\New folder\MyService\MyService\bin\Debug\MyService.dll
+C:\Users\am22765\New folder\MyService\MyService\bin\Debug\MyService.pdb
+C:\Users\am22765\New folder\MyService\MyService\obj\Debug\MyService.csprojResolveAssemblyReference.cache
+C:\Users\am22765\New folder\MyService\MyService\obj\Debug\MyService.dll
+C:\Users\am22765\New folder\MyService\MyService\obj\Debug\MyService.pdb
